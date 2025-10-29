@@ -1,2 +1,2 @@
 # recipe-conflict
-Bake for 20 minutes
+Bake for 25 minutes at 350°F
